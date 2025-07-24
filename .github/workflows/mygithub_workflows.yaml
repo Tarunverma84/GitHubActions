@@ -15,4 +15,3 @@ jobs:
       - run: echo "This job runs on push and pull request to main branch"
       - run: echo "checkout the repository"
         uses: actions/checkout@v2
-      
